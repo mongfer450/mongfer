@@ -1,5 +1,6 @@
---- Hello I'm Beginner in programing world ---
+--- Hello I'm Beginner in programming world ---
 
+🟢Status: Now I'm Self-Learning 
 🔍Focus On:  Web development             
 💬Coding Languages:  JavaScript, C++
 
